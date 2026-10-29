@@ -1,0 +1,42 @@
+[
+  {
+    "id": "product-001",
+    "name": "GameLog Premium",
+    "description": "Unlimited game tracking, custom lists, and richer progress insights.",
+    "category": "Product",
+    "priceLabel": "Premium",
+    "icon": "workspace_premium"
+  },
+  {
+    "id": "product-002",
+    "name": "GameLog Controller Stand",
+    "description": "A compact desk item for keeping your favorite controller ready to play.",
+    "category": "Item",
+    "priceLabel": "$24.99",
+    "icon": "controller"
+  },
+  {
+    "id": "product-003",
+    "name": "Progress Insights",
+    "description": "Personalized summaries that help you understand your play habits.",
+    "category": "Service",
+    "priceLabel": "Included",
+    "icon": "insights"
+  },
+  {
+    "id": "product-004",
+    "name": "Cloud Sync",
+    "description": "Keep your library available across supported devices with Firebase sync.",
+    "category": "Service",
+    "priceLabel": "Optional",
+    "icon": "cloud_sync"
+  },
+  {
+    "id": "product-005",
+    "name": "Player Support",
+    "description": "Get help organizing your backlog and building a completion plan.",
+    "category": "Service",
+    "priceLabel": "Available",
+    "icon": "support_agent"
+  }
+]

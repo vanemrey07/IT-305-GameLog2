@@ -1,0 +1,30 @@
+[
+  {
+    "id": "catalog-001",
+    "title": "Hollow Knight",
+    "status": "Played",
+    "progress": 0,
+    "rating": 4.8
+  },
+  {
+    "id": "catalog-002",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "status": "Played",
+    "progress": 0,
+    "rating": 4.9
+  },
+  {
+    "id": "catalog-003",
+    "title": "Stardew Valley",
+    "status": "Played",
+    "progress": 0,
+    "rating": 4.7
+  },
+  {
+    "id": "catalog-004",
+    "title": "Celeste",
+    "status": "Played",
+    "progress": 0,
+    "rating": 4.6
+  }
+]
